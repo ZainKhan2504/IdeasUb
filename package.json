@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/ZainKhan2504/Ideasub#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "express-handlebars": "^3.0.0"
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.2.15"
   }
 }
