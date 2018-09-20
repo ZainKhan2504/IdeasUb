@@ -64,4 +64,4 @@ typings/
 node_modules
 
 #Ignore database.js
-database.js
+config/database.js
